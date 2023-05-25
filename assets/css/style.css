@@ -12,5 +12,85 @@ body {
     min-height: 200vh;
 }
 
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.6s;
+    padding: 20px 60px;
+    z-index: 10000;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.2px);
+    -webkit-backdrop-filter: blur(3.2px);
+}
+
+.main-title {
+
+    font-style: italic;
+}
+
+header.sticky {
+    padding: 15px 60px;
+    background-color: #d8d6d6;
+
+}
+
+header.sticky ul li a {
+    color: #030303;
+}
+
+header.sticky .logo {
+    color: #141414;
+}
+
+header .logo {
+    position: relative;
+    font-weight: 700;
+    color: #b8b6b6;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.6s;
+}
+
+header ul {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    position: relative;
+    list-style: none;
+}
+
+header ul li a {
+    position: relative;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin: 0 15px;
+    text-decoration: none;
+    color: #d6d5d5;
+    letter-spacing: 2px;
+    font-weight: 600px;
+    transition: 0.6s;
+}
+
+header ul li a:hover {
+    padding: 13px;
+    border-radius: 12px;
+    background-color: #a6aaa6;
+}
+
+
+
 
 
