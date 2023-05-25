@@ -90,6 +90,121 @@ header ul li a:hover {
     background-color: #a6aaa6;
 }
 
+@media only screen and (max-width: 100px) {
+    header .logo {
+        text-align: center;
+    }
+
+    header,
+    header ul {
+
+        display: column;
+
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    header.sticky {
+        padding: 16px 4px;
+        background-color: #d8d6d6;
+    }
+}
+
+section {
+    padding-bottom: 60px;
+    margin-bottom: 33px;
+}
+
+
+
+.content-main {
+    background: rgb(155, 156, 155);
+    background-image: url(../images/yoga6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    padding-right: 94px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+
+}
+
+.content-main span {
+    color: #f5f4f4;
+}
+
+.content-main .dash {
+    color: #42f642;
+}
+
+.content-main h1 {
+    color: #fff;
+    text-shadow: -2px 0px 9px rgba(0, 0, 0, 0.6);
+    width: 30%;
+    font-size: 2rem;
+    padding-bottom: 12px;
+}
+
+.content-main h2 {
+    color: #fff;
+    text-shadow: -2px 0px 9px rgba(0, 0, 0, 0.6);
+    width: 30%;
+    font-size: 1.5rem;
+    padding-bottom: 12px;
+}
+
+#explore-link {
+    display: inline;
+    margin-top: 10px;
+    padding-left: 13px;
+}
+
+#explore-link a {
+    text-shadow: -2px 0px 9px rgba(0, 0, 0, 0.6);
+    color: #e2e0e0;
+    background-color: #7a7c7e;
+    border-radius: 10px;
+    margin-right: 34%;
+    font-size: 1.5em;
+    padding: 10px;
+    line-height: 2.5em;
+    text-decoration: none;
+}
+
+#explore-link a:hover {
+    transition: 0.3s;
+    color: #fff;
+    padding: 13px;
+    border-radius: 12px;
+    background-color: #979797;
+}
+
+.humburger {
+    display: none;
+    cursor: pointer;
+}
+
+.bar {
+    display: block;
+    width: 22px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background: black;
+}
+
+video {
+    width: 100%;
+}
+
+
+
 
 
 
