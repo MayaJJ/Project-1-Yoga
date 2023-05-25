@@ -182,10 +182,57 @@
         </div>
     </div>
 
-
-
+        <!-- here is the footer section -->
     
-
+        <footer class="footer">
+            <div class="socials">
+                <a href="https://facebook.com" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
+                <a href="https://twitter.com" target="_blank" rel="noopener"
+                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+                <a href="https://youtube.com" target="_blank" rel="noopener"
+                aria-label="Visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+            </div>
+            <ul class="footer-list">
+                <li>
+                    <a href="Home">Home</a>
+                </li>
+                <li>
+                    <a href="Service">Service</a>
+                </li>
+                <li>
+                    <a href="About">About</a>
+                </li>
+                <li>
+                    <a href="Contact">Contact us</a>
+                </li>
+            </ul>
+            <p class="copyright
+             ">Copyright ©YogEase 2023 All rights reserved</p>
     
-</body>
-</html>
+        </footer>
+    
+    
+    
+        <script>
+            const humburger = document.querySelector('.humburger');
+            const navMenu = document.querySelector('.nav-menu');
+    
+            humburger.addEventListener('click', () => {
+                humburger.classList.toggle('active')
+                navMenu.classList.toggle('active')
+            })
+        </script>
+    
+    
+        <script type="text/javascript">
+            window.addEventListener("scroll", function () {
+                var header = document.querySelector('header');
+                header.classList.toggle("sticky", window.scrollY > 42)
+            })
+        </script>
+    
+    </body>
+    </html>
