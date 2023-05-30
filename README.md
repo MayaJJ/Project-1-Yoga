@@ -12,6 +12,8 @@ Join our vibrant community of yoga enthusiasts and experience the numerous benef
 
 Don't miss out on the opportunity to transform your practice and elevate your well-being. Visit YogEaze today and embark on a transformative yoga journey that will nurture your mind, body, and soul. Namaste.
 
+![Responsiv](assets/images/screenshot-responsiv.jpg)
+
 ## Existing Features
    ### Navigation Bar
 
@@ -23,35 +25,49 @@ Don't miss out on the opportunity to transform your practice and elevate your we
 -	The landing page features a captivating photograph with text overlay, showcasing the aim of YogEase and who it is intended for.
 -	Furthermore serves as an engaging introduction to YogEaze to capture user's attention and from the moment they arrive on the landing page.
 
+![background](assets/images/screenshot-background.jpg)
+
 #### About us
 
 -	The About section of YogEase serves to inform website users that they can access free online yoga sessions for both beginners and experts. It highlights the opportunity to practice mindfulness and improve overall health through the platform's offerings.
 -	The About section also emphasizes that YogEase is dedicated to providing high-quality yoga education to all, as a non-profit organization. It highlights the expertise of the instructors with years of experience, enabling users to learn new yoga techniques and deepen their practice.
+
+![About](assets/images/screenshot-about.jpg)
     
 #### Learn
 
 -	The About section of the website serves to educate website users about the essence of yoga, providing a clear and concise explanation of what yoga is. It highlights yoga as a holistic practice originating from ancient India, integrating physical postures, breath control, meditation, and philosophical principles.
 -	The About section also aims to create awareness among website users about the wide range of techniques and practices encompassed by yoga. It emphasizes that yoga is not limited to physical exercise but also focuses on promoting overall well-being, including mental and spiritual aspects. By understanding the comprehensive nature of yoga, users can gain a deeper appreciation for its potential benefits and make informed decisions about their own practice.   
 
+![Learn](assets/images/screenshot-learn.jpg)
+
 #### Benefit
 
 -	The Benefits section of the website serves to highlight the physical advantages of practicing yoga, such as improved physical fitness, enhanced flexibility, and better balance. It emphasizes that yoga promotes relaxation and helps in reducing stress, allowing users to experience physical well-being.
 -	The Benefits section also aims to inform website users about the mental and emotional benefits of yoga. It emphasizes how yoga enhances mental clarity, fosters emotional balance, and boosts energy levels. Additionally, it highlights yoga's ability to cultivate a strong mind-body connection, increase flexibility and joint mobility, and contribute to overall well-being and happiness. By exploring the Benefits section, users can gain a comprehensive understanding of the positive impact that yoga can have on both their physical and mental states.
+
+![Benefits](assets/images/screenshot-benefits.jpg)
 
 #### Practice
 
 -	The Practice section of the website serves as a gateway for website users to discover a serene location where they can unwind and create the perfect setting for their yoga session. It provides guidance on finding a peaceful environment that promotes relaxation and concentration during the practice.
 -	The Practice section also allows users to engage with an empowering 20-minute Yoga audio session titled Relax & Unwind. By pressing play, users can follow the instructions provided by the instructor, enabling them to nourish their body and mind through the practice. This section encourages users to actively participate and indulge in a rejuvenating yoga session that promotes relaxation and inner harmony.
 
+![Practice](assets/images/screenshot-practice.jpg)
+
 #### Footer
 
 -	The footer section of YogEase website incorporates links to the relevant social media sites, ensuring easy access to stay connected. These links are designed to open in new tabs, providing seamless navigation for users without interrupting their browsing experience. 
 -	The footer section holds value for users as it encourages them to maintain a connection with YogEaze through social media. By providing links to various social media platforms, users are motivated to engage, follow, and stay updated with the latest news, events, and updates related to YogEaze.
 
+![Footer](assets/images/screenshot-footer.jpg)
+
 #### Contact us
 
 -	The Contact Us section serves as a convenient and accessible means for website users to reach out to Love Running. It provides a designated space where users can submit their inquiries, feedback, or any questions they may have, allowing for direct communication YogEaze.
 -	The Contact Us section is designed to enhance user experience by fostering a sense of trust and reliability. By providing clear contact information and a responsive communication channel, it assures users that their concerns will be heard and addressed promptly, strengthening the relationship between YogEaze and its users.
+
+![Contact](assets/images/screenshot-contact.jpg)
 
 ### Features Left to Implement
 
@@ -84,6 +100,7 @@ Don't miss out on the opportunity to transform your practice and elevate your we
 #### Accesibility
 -	By running accessibility test trough Lighthouse in devtools I confirmed that the colors and fonts chosen are easy to read and accessible.
 
+![Accessibility](assets/images/screenshot-accessibility.jpg)
 
 
 ### Unfixed Bugs
@@ -100,7 +117,6 @@ Don't miss out on the opportunity to transform your practice and elevate your we
 The link to the page can be found here – https://mayajj.github.io/Project-1-Yoga/
 
 
-
 ### Credits: 
 
 #### Content
@@ -114,9 +130,3 @@ The link to the page can be found here – https://mayajj.github.io/Project-1-Yo
 -	The image in the learn section was taken from Unsplash.
 -	The image in the benefit section was taken from Unsplash.
 -	The image in the practice section was taken from Unsplash.
-
-
-
-
-[def]: screenshot-background.jpg
-[../images/background-image.jpg]: ..
