@@ -4,7 +4,7 @@ Welcome to YogEaze, your ultimate destination for yoga enthusiasts seeking to en
 
 YogEaze is designed with the passionate yogi in mind, offering a wealth of resources and guidance to support practitioners of all levels. Whether you're a beginner looking to explore the foundations of yoga or an experienced yogi seeking to deepen your practice, we've got you covered.
 
-Our website features a diverse collection of free yoga sessions, carefully curated and led by certified instructors who are dedicated to sharing their expertise and passion with the global yoga community.
+Our website features free yoga sessions, carefully curated and led by certified instructors who are dedicated to sharing their expertise and passion with the global yoga community.
 
 At YogEaze, we understand the importance of convenience and accessibility in today's fast-paced world. Our platform allows you to access our sessions at any time, from anywhere, making it easier than ever to integrate yoga into your daily routine. Whether you prefer to practice in the morning to kickstart your day or unwind in the evening, our sessions are available whenever you need them.
 
