@@ -12,7 +12,7 @@ Join our vibrant community of yoga enthusiasts and experience the numerous benef
 
 Don't miss out on the opportunity to transform your practice and elevate your well-being. Visit YogEaze today and embark on a transformative yoga journey that will nurture your mind, body, and soul. Namaste.
 
-! [Background] (https://mayajj.github.io/Project-1-Yoga/)
+! [Background](https://mayajj.github.io/Project-1-Yoga/)
 ## Existing Features
    ### Navigation Bar
 
